@@ -1,5 +1,11 @@
 # 2024 2학기 논리설계 및 실험 프로젝트
 
+
+## Collaborators
+- [@kimheonningg](https://github.com/kimheonningg)
+- [@HIWooI](https://github.com/HIWooI)
+- [@kingthebryan](https://github.com/kingthebryan)
+
 ## module 구성
 
 - main module: 중앙 통제 역할
