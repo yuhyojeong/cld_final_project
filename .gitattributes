@@ -1,0 +1,4 @@
+*.v linguist-language=Verilog
+*.vh linguist-language=Verilog
+*.vhdl linguist-language=VHDL
+*.vhd linguist-language=VHDL
